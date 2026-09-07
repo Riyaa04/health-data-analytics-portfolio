@@ -1,4 +1,4 @@
-# health-data-analytics-portfolio
+# Health-data-analytics-portfolio
 
 # Riya Thomas — Health Data Analytics Portfolio
 
